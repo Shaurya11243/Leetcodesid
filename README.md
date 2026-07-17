@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shaurya11243/Leetcodesid/tree/master/0700-search-in-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Shaurya11243/Leetcodesid/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
