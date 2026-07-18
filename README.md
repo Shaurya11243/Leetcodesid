@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0860-lemonade-change](https://github.com/Shaurya11243/Leetcodesid/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shaurya11243/Leetcodesid/tree/master/0449-serialize-and-deserialize-bst) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Shaurya11243/Leetcodesid/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
