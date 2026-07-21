@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Shaurya11243/Leetcodesid/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaurya11243/Leetcodesid/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Shaurya11243/Leetcodesid/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/Shaurya11243/Leetcodesid/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shaurya11243/Leetcodesid/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/Shaurya11243/Leetcodesid/tree/master/0860-lemonade-change) |
 ## Union-Find
 |  |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shaurya11243/Leetcodesid/tree/master/0547-number-of-provinces) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
