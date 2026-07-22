@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shaurya11243/Leetcodesid/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaurya11243/Leetcodesid/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shaurya11243/Leetcodesid/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shaurya11243/Leetcodesid/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shaurya11243/Leetcodesid/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shaurya11243/Leetcodesid/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shaurya11243/Leetcodesid/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Shaurya11243/Leetcodesid/tree/master/0733-flood-fill) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shaurya11243/Leetcodesid/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shaurya11243/Leetcodesid/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Shaurya11243/Leetcodesid/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Shaurya11243/Leetcodesid/tree/master/0994-rotting-oranges) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shaurya11243/Leetcodesid/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shaurya11243/Leetcodesid/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
