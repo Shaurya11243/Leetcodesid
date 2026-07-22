@@ -18,6 +18,7 @@ public:
                 if (r + 1 < m) bottom = mat[r + 1][c];
                 if (c + 1 < n) right = mat[r][c + 1];
                 mat[r][c] = min(mat[r][c], min(bottom, right) + 1);
+                
             }
         }
         return mat;
