@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaurya11243/Leetcodesid/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shaurya11243/Leetcodesid/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tree
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shaurya11243/Leetcodesid/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shaurya11243/Leetcodesid/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Shaurya11243/Leetcodesid/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shaurya11243/Leetcodesid/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shaurya11243/Leetcodesid/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shaurya11243/Leetcodesid/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shaurya11243/Leetcodesid/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Shaurya11243/Leetcodesid/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shaurya11243/Leetcodesid/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shaurya11243/Leetcodesid/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shaurya11243/Leetcodesid/tree/master/0994-rotting-oranges) |
 ## Hash Table
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shaurya11243/Leetcodesid/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shaurya11243/Leetcodesid/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sorting
 |  |
 | ------- |
@@ -155,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shaurya11243/Leetcodesid/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shaurya11243/Leetcodesid/tree/master/0994-rotting-oranges) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shaurya11243/Leetcodesid/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shaurya11243/Leetcodesid/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
