@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Shaurya11243/Leetcodesid/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Shaurya11243/Leetcodesid/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Shaurya11243/Leetcodesid/tree/master/0130-surrounded-regions) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shaurya11243/Leetcodesid/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Shaurya11243/Leetcodesid/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
