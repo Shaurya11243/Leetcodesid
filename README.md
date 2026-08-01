@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaurya11243/Leetcodesid/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Shaurya11243/Leetcodesid/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shaurya11243/Leetcodesid/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tree
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shaurya11243/Leetcodesid/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/0216-combination-sum-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Shaurya11243/Leetcodesid/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shaurya11243/Leetcodesid/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Shaurya11243/Leetcodesid/tree/master/0860-lemonade-change) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shaurya11243/Leetcodesid/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Shaurya11243/Leetcodesid/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shaurya11243/Leetcodesid/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/0216-combination-sum-iii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
