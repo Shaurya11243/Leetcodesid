@@ -193,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Shaurya11243/Leetcodesid/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
