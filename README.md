@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shaurya11243/Leetcodesid/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1406-stone-game-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/1406-stone-game-iii) |
 ## Tree
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Shaurya11243/Leetcodesid/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Shaurya11243/Leetcodesid/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1406-stone-game-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shaurya11243/Leetcodesid/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Shaurya11243/Leetcodesid/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/1406-stone-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,8 +196,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shaurya11243/Leetcodesid/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
