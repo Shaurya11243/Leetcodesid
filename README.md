@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0014-longest-common-prefix) |
 | [0040-combination-sum-ii](https://github.com/Shaurya11243/Leetcodesid/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Shaurya11243/Leetcodesid/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0014-longest-common-prefix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shaurya11243/Leetcodesid/tree/master/0449-serialize-and-deserialize-bst) |
 ## Design
 |  |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/1406-stone-game-iii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
