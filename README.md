@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shaurya11243/Leetcodesid/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shaurya11243/Leetcodesid/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shaurya11243/Leetcodesid/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shaurya11243/Leetcodesid/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shaurya11243/Leetcodesid/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shaurya11243/Leetcodesid/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Shaurya11243/Leetcodesid/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Shaurya11243/Leetcodesid/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Shaurya11243/Leetcodesid/tree/master/1406-stone-game-iii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shaurya11243/Leetcodesid/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shaurya11243/Leetcodesid/tree/master/0014-longest-common-prefix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shaurya11243/Leetcodesid/tree/master/0449-serialize-and-deserialize-bst) |
 ## Design
